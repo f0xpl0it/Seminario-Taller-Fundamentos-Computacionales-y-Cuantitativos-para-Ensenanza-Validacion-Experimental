@@ -230,21 +230,6 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
 
 ---
 
-## Contacto
-
-**Dr. Carlos Julio Mayorga Arias**  
-Facultad de Ciencias Químicas, Universidad Central del Ecuador  
-
-<br>
-<p align="center">
-    <a href="mailto:cj.carlosjulio@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/carlos-mayorga-85a14b63/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="https://wa.me/593998917401" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
-</p>
-
-
----
-
 ## Licencia
 
 Este seminario-taller está organizado por la Universidad Central del Ecuador y se encuentra bajo la Licencia [MIT](https://github.com/Zexc4/Investigacion-Cuantitativa-FCQ/blob/main/LICENSE).
@@ -258,5 +243,20 @@ Esto significa que:
 **Importante:** Este material se proporciona “tal cual”, sin garantía de ningún tipo, expresa o implícita.
 
 Para más detalles, puedes consultar la licencia completa en: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+---
+## Contacto
+
+**Dr. Carlos Julio Mayorga Arias**  
+Facultad de Ciencias Químicas, Universidad Central del Ecuador  
+
+<br>
+<p align="center">
+    <a href="mailto:cj.carlosjulio@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/carlos-mayorga-85a14b63/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+    <a href="https://wa.me/593998917401" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
+</p>
+
+
 
 
