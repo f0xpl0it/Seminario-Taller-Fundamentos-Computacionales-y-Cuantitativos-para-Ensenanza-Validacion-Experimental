@@ -133,7 +133,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
 
 ---
 
-## **Recursos Taller – Dr. Carlos Mayorga**
+## **Recursos Taller**
 
 <div align="center">
   <table border="1" cellspacing="0" cellpadding="6" width="100%">
@@ -146,8 +146,8 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
     </tr>
     <!-- 10 de septiembre - Facultad Ciencias Químicas (va primero) -->
     <tr>
-      <td>10 de septiembre<br />Presencial</td>
-      <td>10h30 a 13h30</td>
+      <td>Por Definir<br />Por Definir</td>
+      <td>Por Definir</td>
       <td>Aplicaciones de Python y Google Colab</td>
       <td>
         Fundamentos de Python<br />
@@ -162,7 +162,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
     </tr>
     <!-- 10 de septiembre - Evento general -->
     <tr>
-      <td>10 de septiembre<br />Presencial</td>
+      <td>- de septiembre<br />Presencial</td>
       <td>10h30 a 13h30</td>
       <td>Fundamentos Cuantitativos y Epistemológicos para la Validación Experimental</td>
       <td>
@@ -174,13 +174,13 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
       <td>
         • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Jupyter%20Notebook/2_Fundamentos_Cuantitativos_Epistemol%C3%B3gicos_%20Validaci%C3%B3n_Experimental_%20Ciencia_%20Ingenier%C3%ADa.ipynb">Jupyter Notebook</a><br />
         • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts%20Ejercicios/Dia_1_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis - Carlos Mayorga</a>
       </td>
     </tr>
     <!-- 11 de septiembre - Evento general -->
     <tr>
-      <td>11 de septiembre<br />Virtual</td>
+      <td>- de septiembre<br />Virtual</td>
       <td>18h00 a 22h00</td>
       <td>Herramientas Cuantitativas Exploratorias para el Análisis y Modelado</td>
       <td>
@@ -190,24 +190,23 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
         &nbsp;&nbsp;&nbsp;• Ejemplos prácticos
       </td>
       <td>
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Dia_2_Herramienta_%20Cuantitativas_Exploratorias_An%C3%A1lisis_Modelado_Ciencia_Ingenier%C3%ADa.ipynb">Jupyter Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Jupyter%20Notebook/3_Herramienta_%20Cuantitativas_Exploratorias_An%C3%A1lisis_Modelado_Ciencia_Ingenier%C3%ADa.ipynb">Jupyter Notebook</a><br />
         • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts%20Ejercicios/Dia_2_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
-        • <a href="https://statisticsglobe.com/wp-content/uploads/2023/09/data_pca_200x16.csv">PCA Dataset</a><br />
-        • <a href="https://www.kaggle.com/datasets/nsaravana/malware-detection">Malware-Detection Dataset</a><br />
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
+        • <a href="https://www.kaggle.com/datasets/nsaravana/malware-detection">Malware-Detection</a><br />
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis - Carlos Mayorga</a>
       </td>
     </tr>
     <!-- 11 de septiembre - Facultad Ciencias Químicas -->
     <tr>
-      <td>11 de septiembre<br />Virtual</td>
-      <td>Por definir</td>
-      <td>Aplicaciones</td>
+      <td>Por Definir<br />Por Definir</td>
+      <td>Por Definir</td>
+      <td>Aplicaciones a Ciencias Químicas</td>
       <td>
-        Tipos de investigación cuantitativa<br />
-        &nbsp;&nbsp;&nbsp;• Experimental<br />
-        &nbsp;&nbsp;&nbsp;• Cuasi experimental<br />
-        &nbsp;&nbsp;&nbsp;• Ejemplos prácticos
+        Por Definir<br />
+        &nbsp;&nbsp;&nbsp;• Por Definir<br />
+        &nbsp;&nbsp;&nbsp;• Por Definir<br />
+        &nbsp;&nbsp;&nbsp;• Por Definir
       </td>
       <td>
         • <a href="#">Jupyter Notebook</a><br />
