@@ -17,7 +17,7 @@
 
 ## Datos Informativos
 
-**Nombre del evento:** [Seminario-Taller: Fundamentos Computacionales y Cuantitativos para la Enseñanza y Validación Experimental](https://github.com/Zexc4/Investigacion-Cuantitativa-FCQ)  
+**Nombre del evento:** [Fundamentos Computacionales y Cuantitativos para la Enseñanza y Validación Experimental](https://github.com/Zexc4/Investigacion-Cuantitativa-FCQ)  
 **Unidad Proponente:** Facultad de Ciencias Quimicas  
 **Responsable del evento:** Dr. Carlos Julio Mayorga Arias  
 **Beneficiarios:** Docentes y técnicos docentes de la Institución  
