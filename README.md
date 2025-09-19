@@ -247,7 +247,7 @@ Facultad de Ciencias Químicas, Universidad Central del Ecuador
 
 ## Licencia
 
-Este seminario-taller está organizado por la Universidad Central del Ecuador y se encuentra bajo la Licencia MIT.
+Este seminario-taller está organizado por la Universidad Central del Ecuador y se encuentra bajo la Licencia [MIT](https://github.com/Zexc4/Investigacion-Cuantitativa-FCQ/blob/main/LICENSE).
 
 Esto significa que:
 
