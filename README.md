@@ -17,7 +17,7 @@
 
 ## Datos Informativos
 
-**Nombre del evento:** [Fundamentos Computacionales y Cuantitativos para la Enseñanza y Validación Experimental](https://github.com/Zexc4/Investigacion-Cuantitativa-FCQ)  
+**Nombre del evento:** [Fundamentos Computacionales y Cuantitativos para la Enseñanza y Validación Experimental](https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental)  
 **Unidad Proponente:** Facultad de Ciencias Quimicas  
 **Responsable del evento:** Dr. Carlos Julio Mayorga Arias  
 **Beneficiarios:** Docentes y técnicos docentes de la Institución  
@@ -157,7 +157,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
         &nbsp;&nbsp;&nbsp;• Conceptos Clave y Buenas Prácticas
       </td>
       <td>
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Introduccion_Python.ipynb">Jupyter Notebook</a>
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Jupyter%20Notebook/1_Aplicaciones%20de%20Python%20y%20Google%20Colab.ipynb">Jupyter Notebook</a>
       </td>
     </tr>
     <!-- 10 de septiembre - Evento general -->
@@ -172,7 +172,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
         &nbsp;&nbsp;&nbsp;• Alcances
       </td>
       <td>
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Dia_1_Fundamentos_Cuantitativos_Epistemol%C3%B3gicos_%20Validaci%C3%B3n_Experimental_%20Ciencia_%20Ingenier%C3%ADa.ipynb">Jupyter Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Jupyter%20Notebook/2_Fundamentos_Cuantitativos_Epistemol%C3%B3gicos_%20Validaci%C3%B3n_Experimental_%20Ciencia_%20Ingenier%C3%ADa.ipynb">Jupyter Notebook</a><br />
         • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts%20Ejercicios/Dia_1_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
         • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis - Carlos Mayorga</a>
