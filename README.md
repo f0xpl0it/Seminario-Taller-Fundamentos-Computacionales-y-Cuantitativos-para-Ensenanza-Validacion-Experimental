@@ -173,7 +173,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
       </td>
       <td>
         • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Jupyter%20Notebook/2_Fundamentos_Cuantitativos_Epistemol%C3%B3gicos_%20Validaci%C3%B3n_Experimental_%20Ciencia_%20Ingenier%C3%ADa.ipynb">Jupyter Notebook</a><br />
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts%20Ejercicios/Dia_1_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Scripts%20Ejercicios/2_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
         • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis - Carlos Mayorga</a>
       </td>
@@ -191,7 +191,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
       </td>
       <td>
         • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Jupyter%20Notebook/3_Herramienta_%20Cuantitativas_Exploratorias_An%C3%A1lisis_Modelado_Ciencia_Ingenier%C3%ADa.ipynb">Jupyter Notebook</a><br />
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts%20Ejercicios/Dia_2_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Scripts%20Ejercicios/3_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
         • <a href="https://www.kaggle.com/datasets/nsaravana/malware-detection">Malware-Detection</a><br />
         • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis - Carlos Mayorga</a>
