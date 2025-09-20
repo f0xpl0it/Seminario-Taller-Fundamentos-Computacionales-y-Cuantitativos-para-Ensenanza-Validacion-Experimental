@@ -157,7 +157,8 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
         &nbsp;&nbsp;&nbsp;• Conceptos Clave y Buenas Prácticas
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Jupyter%20Notebook/1_Aplicaciones%20de%20Python%20y%20Google%20Colab.ipynb">Jupyter Notebook</a>
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Jupyter%20Notebook/1_Aplicaciones%20de%20Python%20y%20Google%20Colab.ipynb">Jupyter Notebook</a><br>
+                • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Scripts%20Ejercicios/1_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
       </td>
     </tr>
     <!-- 10 de septiembre - Evento general -->
