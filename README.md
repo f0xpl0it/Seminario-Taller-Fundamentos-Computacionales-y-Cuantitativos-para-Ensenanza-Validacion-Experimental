@@ -8,7 +8,7 @@
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640)
 [![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?color=blue)](https://github.com/Zexc4/Investigacion-Cuantitativa-FCQ/blob/main/LICENSE)
-    <a href="https://github.com/f0xpl0it/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa?label=profile%20updated&style=flat-square"></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/f0xpl0it)
 
 </div>
