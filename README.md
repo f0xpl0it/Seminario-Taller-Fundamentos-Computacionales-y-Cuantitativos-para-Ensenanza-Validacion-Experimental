@@ -210,11 +210,8 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
         &nbsp;&nbsp;&nbsp;• Por Definir
       </td>
       <td>
-        • <a href="#">Jupyter Notebook</a><br />
-        • <a href="#">Cuaderno de Trabajo</a><br />
-        • <a href="https://statisticsglobe.com/wp-content/uploads/2023/09/data_pca_200x16.csv">PCA Dataset</a><br />
-        • <a href="#">Dataset 3</a><br />
-        • <a href="#">Dataset 4</a>
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Jupyter%20Notebook/4_Aplicaciones_de_Python_Qu%C3%ADmica_Bioqu%C3%ADmica.ipynb">Jupyter Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Scripts%20Ejercicios/4_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
       </td>
     </tr>
   </table>
