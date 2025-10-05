@@ -8,7 +8,7 @@
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640)
 [![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?color=blue)](https://github.com/Zexc4/Investigacion-Cuantitativa-FCQ/blob/main/LICENSE)
-    <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental?label=profile%20updated&style=flat-square"></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/f0xpl0it)
 
 </div>
@@ -59,14 +59,14 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
       <th>Tema</th>
       <th>Facilitador</th>
     </tr>
-    <!-- 8 de septiembre -->
+    <!-- 6 de octubre -->
     <tr>
-      <td rowspan="2">6 de octubre<br />Presencial</td>
+      <td rowspan="3" align="center" valign="middle">6 de octubre<br />Presencial</td>
       <td>07h30 a 08h00</td>
       <td colspan="2" align="center"><strong>Asistencia y Acto Inaugural</strong></td>
     </tr>
     <tr>
-      <td>Por Definir</td>
+      <td>8h00 a 09h30</td>
       <td>
         Fundamentos de Python<br />
         &nbsp;&nbsp;&nbsp;• Manejo de Archivos en Colab<br />
@@ -76,10 +76,8 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
       </td>
       <td rowspan="4" align="center" valign="middle">Dr. Carlos Julio Mayorga Arias</td>
     </tr>
-    <!-- 9 de septiembre -->
     <tr>
-      <td> 6 de octubre<br />Presencial</td>
-      <td>8h00 a 11h00</td>
+      <td>09h30 a 11h00</td>
       <td>
         Epistemología de la Investigación Cuantitativa<br />
         &nbsp;&nbsp;&nbsp;• Confiabilidad y validez<br />
@@ -89,7 +87,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
     </tr>
     <!-- 7 de octubre -->
     <tr>
-      <td>7de octubre<br />Presencial</td>
+      <td align="center" valign="middle">7 de octubre<br />Presencial</td>
       <td>8h00 a 11h00</td>
       <td>
         Tipos de investigación cuantitativa<br />
@@ -100,7 +98,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
     </tr>
     <!-- 8 de octubre -->
     <tr>
-      <td>8 de octubre<br />Virtual</td>
+      <td align="center" valign="middle">8 de octubre<br />Presencial</td>
       <td>8h00 a 11h00</td>
       <td>
         Tipos de análisis cuantitativo aplicado<br />
@@ -126,10 +124,10 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
       <th>Tema</th>
       <th width="210px">Recursos</th>
     </tr>
-    <!-- 10 de septiembre - Facultad Ciencias Químicas (va primero) -->
+    <!-- 6 de octubre - Combined rowspan for both sessions -->
     <tr>
-      <td>Por Definir<br />Por Definir</td>
-      <td>Por Definir</td>
+      <td rowspan="2" align="center" valign="middle">6 de octubre<br />Presencial</td>
+      <td>08h00 a 09h30</td>
       <td>Aplicaciones de Python y Google Colab</td>
       <td>
         Fundamentos de Python<br />
@@ -143,10 +141,8 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
                 • <a href="https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental/blob/main/Scripts%20Ejercicios/1_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
       </td>
     </tr>
-    <!-- 10 de septiembre - Evento general -->
     <tr>
-      <td>- de septiembre<br />Presencial</td>
-      <td>10h30 a 13h30</td>
+      <td>09h30 a 11h00</td>
       <td>Fundamentos Cuantitativos y Epistemológicos para la Validación Experimental</td>
       <td>
         Epistemología de la Investigación Cuantitativa<br />
@@ -161,10 +157,10 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis - Carlos Mayorga</a>
       </td>
     </tr>
-    <!-- 11 de septiembre - Evento general -->
+    <!-- 7 de octubre -->
     <tr>
-      <td>- de septiembre<br />Virtual</td>
-      <td>Por Definir</td>
+      <td align="center" valign="middle">7 de octubre<br />Presencial</td>
+      <td>8h00 a 11h00</td>
       <td>Herramientas Cuantitativas Exploratorias para el Análisis y Modelado</td>
       <td>
         Tipos de investigación cuantitativa<br />
@@ -180,10 +176,10 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis - Carlos Mayorga</a>
       </td>
     </tr>
-    <!-- 11 de septiembre - Facultad Ciencias Químicas -->
+    <!-- 8 de octubre -->
     <tr>
-      <td>Por Definir<br />Por Definir</td>
-      <td>Por Definir</td>
+      <td align="center" valign="middle">8 de octubre<br />Presencial</td>
+      <td>8h00 a 11h00</td>
       <td>Aplicaciones de Python en Química y Bioquímica</td>
       <td>
         Tipos de análisis cuantitativo aplicado<br />
@@ -199,7 +195,6 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
     </tr>
   </table>
 </div>
-
 
                                                 
 ---
