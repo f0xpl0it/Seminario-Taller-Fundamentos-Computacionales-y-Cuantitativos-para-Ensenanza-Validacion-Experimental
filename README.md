@@ -20,8 +20,8 @@
 **Nombre del evento:** [Fundamentos Computacionales y Cuantitativos para la Enseñanza y Validación Experimental](https://github.com/f0xpl0it/Seminario-Taller-Fundamentos-Computacionales-y-Cuantitativos-para-Ensenanza-Validacion-Experimental)  
 **Unidad Proponente:** Facultad de Ciencias Quimicas  
 **Responsable del evento:** Dr. Carlos Julio Mayorga Arias  
-**Beneficiarios:** Docentes y técnicos docentes de la Institución  
-**Fechas:** Por definir
+**Beneficiarios:** Docentes y técnicos docentes de la Facultad  
+**Fechas:** Del 6 al 8 de octubre 2025
 
 ---
 
@@ -61,8 +61,8 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
     </tr>
     <!-- 8 de septiembre -->
     <tr>
-      <td rowspan="2">- de septiembre<br />Presencial</td>
-      <td>Por Definir</td>
+      <td rowspan="2">6 de octubre<br />Presencial</td>
+      <td>07h30 a 08h00</td>
       <td colspan="2" align="center"><strong>Asistencia y Acto Inaugural</strong></td>
     </tr>
     <tr>
@@ -78,8 +78,8 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
     </tr>
     <!-- 9 de septiembre -->
     <tr>
-      <td>- de septiembre<br />Presencial</td>
-      <td>Por Definir</td>
+      <td> 6 de octubre<br />Presencial</td>
+      <td>8h00 a 11h00</td>
       <td>
         Epistemología de la Investigación Cuantitativa<br />
         &nbsp;&nbsp;&nbsp;• Confiabilidad y validez<br />
@@ -87,10 +87,10 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
         &nbsp;&nbsp;&nbsp;• Alcances
       </td>
     </tr>
-    <!-- 10 de septiembre -->
+    <!-- 7 de octubre -->
     <tr>
-      <td>- de septiembre<br />Presencial</td>
-      <td>Por Definir</td>
+      <td>7de octubre<br />Presencial</td>
+      <td>8h00 a 11h00</td>
       <td>
         Tipos de investigación cuantitativa<br />
         &nbsp;&nbsp;&nbsp;• Experimental<br />
@@ -98,10 +98,10 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
         &nbsp;&nbsp;&nbsp;• Ejemplos prácticos
       </td>
     </tr>
-    <!-- 11 de septiembre -->
+    <!-- 8 de octubre -->
     <tr>
-      <td>- de septiembre<br />Virtual</td>
-      <td>Por Definir</td>
+      <td>8 de octubre<br />Virtual</td>
+      <td>8h00 a 11h00</td>
       <td>
         Tipos de análisis cuantitativo aplicado<br />
         &nbsp;&nbsp;&nbsp;• Investigación Cuasi-experimental<br />
