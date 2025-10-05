@@ -66,7 +66,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
       <td colspan="2" align="center"><strong>Asistencia y Acto Inaugural</strong></td>
     </tr>
     <tr>
-      <td>8h00 a 09h30</td>
+      <td>08h00 a 09h30</td>
       <td>
         Fundamentos de Python<br />
         &nbsp;&nbsp;&nbsp;• Manejo de Archivos en Colab<br />
@@ -88,7 +88,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
     <!-- 7 de octubre -->
     <tr>
       <td align="center" valign="middle">7 de octubre<br />Presencial</td>
-      <td>8h00 a 11h00</td>
+      <td>08h00 a 11h00</td>
       <td>
         Tipos de investigación cuantitativa<br />
         &nbsp;&nbsp;&nbsp;• Experimental<br />
@@ -99,7 +99,7 @@ Se enfatizarán tanto los fundamentos teóricos como las buenas prácticas de im
     <!-- 8 de octubre -->
     <tr>
       <td align="center" valign="middle">8 de octubre<br />Presencial</td>
-      <td>8h00 a 11h00</td>
+      <td>08h00 a 11h00</td>
       <td>
         Tipos de análisis cuantitativo aplicado<br />
         &nbsp;&nbsp;&nbsp;• Investigación Cuasi-experimental<br />
